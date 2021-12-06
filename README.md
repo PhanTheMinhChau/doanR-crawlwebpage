@@ -4,4 +4,4 @@
 - 11880 sản phẩm (về thời trang)
 - 13 trường dữ liệu (tên, giá, shop , huy hiệu shop, đã bán, sao, số lượng 1 sao, số lượt đánh giá, Xuất xứ, Chất liệu, Mẫu, Kho hàng, Gửi từ)
 
-![](https://komarev.com/ghpvc/?username=phantheminhchau3&label=VIEWS)
+![](https://komarev.com/ghpvc/?username=phantheminhcha4&label=VIEWS)
