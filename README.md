@@ -5,4 +5,3 @@
 - 13 trường dữ liệu (tên, giá, shop , huy hiệu shop, đã bán, sao, số lượng 1 sao, số lượt đánh giá, Xuất xứ, Chất liệu, Mẫu, Kho hàng, Gửi từ)
 
 ![](https://komarev.com/ghpvc/?username=phantheminhcha5&label=VIEWS)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantheminhchau&layout=compact)
